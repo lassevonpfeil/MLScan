@@ -1,7 +1,7 @@
 package util;
 
 public class Development {
-    static boolean development = true;
+    static boolean development = false;
 
     public static String isInDevelopment() {
         if (Development.development == true) {
