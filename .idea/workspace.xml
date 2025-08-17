@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fefaa6ce-894e-4e83-a2fa-50e4e21a761e" name="Changes" comment="simplified">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/pdfbox_app_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dependencies/pdfbox-app-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/GetFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/PDFStripper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLScan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MLScan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/ButtonGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ButtonGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Console.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/FileField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/FileField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Window.java" afterDir="false" />
     </list>
@@ -31,21 +36,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lassevonpfeil"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lassevonpfeil&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lassevonpfeil/MLScan.git",
-    "accountId": "5492ba11-d2c6-4c57-ac67-8515cbde8c88"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lassevonpfeil/MLScan.git&quot;,
+    &quot;accountId&quot;: &quot;5492ba11-d2c6-4c57-ac67-8515cbde8c88&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="31NOQbW63l7vgRssnL7IwPXQJP2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,12 +65,24 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/lassevonpfeil/Documents/dev/MLScan/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/dependencies" />
     </key>
   </component>
   <component name="RunManager">
