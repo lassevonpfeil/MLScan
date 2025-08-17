@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
+import util.GetFile;
 
 public class FileField {
     static JTextField filePathField = new JTextField();
@@ -17,13 +18,14 @@ public class FileField {
         browseButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                fileChooser.setDialogTitle("Choose pdf");
+                /* fileChooser.setDialogTitle("Choose pdf");
 
                 int result = fileChooser.showOpenDialog(Window.frame);
                 if (result == JFileChooser.APPROVE_OPTION) {
                     File selectedFile = fileChooser.getSelectedFile();
                     filePathField.setText(selectedFile.getAbsolutePath());
-                }
+                } */
+                new GetFile(fileChooser, filePathField);
             }
         });
     }
