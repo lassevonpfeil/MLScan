@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class Window {
 
-    static JFrame frame = new JFrame("MLScan" + Development.isInDevelopment());
+    public static JFrame frame = new JFrame("MLScan" + Development.isInDevelopment());
     static ButtonGenerate button = new ButtonGenerate();
     static FileField fileField = new FileField();
     static Console console = new Console();
