@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fefaa6ce-894e-4e83-a2fa-50e4e21a761e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MLScan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/ButtonGenerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/FileField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Development.java" afterDir="false" />
+    <list default="true" id="fefaa6ce-894e-4e83-a2fa-50e4e21a761e" name="Changes" comment="simplified">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ButtonGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ButtonGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/FileField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/FileField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +24,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="production" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lassevonpfeil"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lassevonpfeil/MLScan.git",
+    "accountId": "5492ba11-d2c6-4c57-ac67-8515cbde8c88"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -47,9 +57,10 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/lassevonpfeil/Documents/dev/MLScan/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/lassevonpfeil/Documents/dev/MLScan/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,6 +79,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -80,6 +95,81 @@
       <option name="presentableId" value="Default" />
       <updated>1755361051051</updated>
     </task>
+    <task id="LOCAL-00001" summary="project start">
+      <option name="closed" value="true" />
+      <created>1755372312892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755372312892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project start">
+      <option name="closed" value="true" />
+      <created>1755372794973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755372794973</updated>
+    </task>
+    <task id="LOCAL-00003" summary="project start">
+      <option name="closed" value="true" />
+      <created>1755372806773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755372806773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="set development to false">
+      <option name="closed" value="true" />
+      <created>1755372840641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755372840641</updated>
+    </task>
+    <task id="LOCAL-00005" summary="simplified">
+      <option name="closed" value="true" />
+      <created>1755373094177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755373094177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="production" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project start" />
+    <MESSAGE value="set development to false" />
+    <MESSAGE value="simplified" />
+    <option name="LAST_COMMIT_MESSAGE" value="simplified" />
   </component>
 </project>
