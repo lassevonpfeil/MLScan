@@ -14,7 +14,7 @@ public class ButtonGenerate {
     int x = 870 / 2 - 290 / 2;
     int y = 450;
 
-    public void buttonGenerate() {
+    public ButtonGenerate() {
 
         generate.setBounds(x, y, 290, 90);
         generate.addActionListener(new ActionListener() {

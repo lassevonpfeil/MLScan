@@ -10,7 +10,7 @@ public class FileField {
     static JButton browseButton = new JButton("Choose...");
     static JFileChooser fileChooser = new JFileChooser();
 
-    public static void fileField() {
+    public FileField() {
         browseButton.setBounds(30, 150, 100, 30);
         filePathField.setBounds(130, 150, 700, 30);
 
